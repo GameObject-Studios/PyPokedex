@@ -52,8 +52,8 @@ It is also possible to build the project to a standalone executable(.exe) using 
 <br>
 <br>
 Other Resources:<br>
-    - Install Python Interpreter: https://www.python.org/downloads/
-
+    - Install Python Interpreter: https://www.python.org/downloads/<br>
+<br>
 *** !!! Disclaimer !!! ***
 ** Pokémon is copyright protected by Nintendo, Game Freak, and Creatures.
 ** I claim NO rights over any images or fonts used in this project.
