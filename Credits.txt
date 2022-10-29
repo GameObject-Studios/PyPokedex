@@ -1,0 +1,18 @@
+Sprites:
+    https://pokeapi.co/
+    https://jordan-morrison.github.io/PokedexGo/
+    https://marriland.com/pokedex/
+    https://pokemondb.net/pokedex/
+    https://archives.bulbagarden.net/wiki/
+    https://pokemon-incandescent.fandom.com/wiki/Zacian?file=718_Crowned_Zacian_Icon.png
+
+Fonts:
+    https://www.dafont.com/pokemon.font
+
+*** !!! Disclaimer !!! ***
+** Pokémon is copyright protected by Nintendo, Game Freak, and Creatures.
+** I claim NO rights over any images or fonts used in this project.
+** I am providing the source code, build(s) and assets for educational purposes only.
+** ABSOLUTELY NO money or goods will be exchanged for the code and/or files.
+
+NOTE: need to add hisuian Pokémon
