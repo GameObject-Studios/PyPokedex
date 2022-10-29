@@ -2,33 +2,33 @@
 
 I created this project as practice of my learning of Python programming.<br>
     Topics covered include:<br>
-        - Creating a GUI application using the Tkinter library
-        - Reading from a file
-        - Accessing and manipulating .CSV data
-        - Displaying images using Tkinter
-        - Using custom fonts in a Tkinter application
-        - Updating data shown in various labels on Tkinter GUI
-        - Building an executable using pyinstaller
-        - Web scraping, APIs and creating images from raw text data
-
-Fonts:
-To use the fonts provided in the 'Fonts' folder, they must be properly installed. 
-In most modern Windows Operating Systems, you should be able to right-click the font file and 
-    select 'Install' from the menu. For other operating systems, I found the following resources:
-    For Linux: https://www.unixtutorial.org/how-to-install-ttf-fonts-in-linux/
-    For Mac OS: https://support.apple.com/guide/font-book/install-and-validate-fonts-fntbk1000/mac
-
-Sprites:
-    Most of the sprites used were created from data provided by the pokebase API at https://pokeapi.co/
-    The alternate forms and megas sprites were found at the sites mentioned in the credits.txt file.
-
-Application:
-This program can be run directly from source code if you have the latest Python interpreter installed(3.10+) by running
-the main.py file.
-
-Build:
-It is also possible to build the project to a standalone executable(.exe) using the package 'pyinstaller'
-
+        - Creating a GUI application using the Tkinter library<br>
+        - Reading from a file<br>
+        - Accessing and manipulating .CSV data<br>
+        - Displaying images using Tkinter<br>
+        - Using custom fonts in a Tkinter application<br>
+        - Updating data shown in various labels on Tkinter GUI<br>
+        - Building an executable using pyinstaller<br>
+        - Web scraping, APIs and creating images from raw text data<br>
+<br>
+Fonts:<br>
+To use the fonts provided in the 'Fonts' folder, they must be properly installed.<br>
+In most modern Windows Operating Systems, you should be able to right-click the font file and<br>
+    select 'Install' from the menu. For other operating systems, I found the following resources:<br>
+    - For Linux: https://www.unixtutorial.org/how-to-install-ttf-fonts-in-linux/<br>
+    - For Mac OS: https://support.apple.com/guide/font-book/install-and-validate-fonts-fntbk1000/mac<br>
+<br>
+Sprites:<br>
+    Most of the sprites used were created from data provided by the pokebase API at https://pokeapi.co/<br>
+    The alternate forms and megas sprites were found at the sites mentioned in the credits.txt file.<br>
+<br>
+Application:<br>
+This program can be run directly from source code if you have the latest Python interpreter installed(3.10+) by running<br>
+the main.py file.<br>
+<br>
+Build:<br>
+It is also possible to build the project to a standalone executable(.exe) using the package 'pyinstaller'<br>
+<br>
     directions:
         1. In a command prompt/terminal run the following command (Requires Python 3.10 or higher):
         
