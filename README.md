@@ -1,15 +1,15 @@
 # Source code for PyPokédex by Kyle Pummell
 
-I created this project as practice of my learning of Python programming.
-Topics covered include:
-    - Creating a GUI application using the Tkinter library
-    - Reading from a file
-    - Accessing and manipulating .CSV data
-    - Displaying images using Tkinter
-    - Using custom fonts in a Tkinter application
-    - Updating data shown in various labels on Tkinter GUI
-    - Building an executable using pyinstaller
-    - Web scraping, APIs and creating images from raw text data
+I created this project as practice of my learning of Python programming.<br>
+    Topics covered include:<br>
+        - Creating a GUI application using the Tkinter library
+        - Reading from a file
+        - Accessing and manipulating .CSV data
+        - Displaying images using Tkinter
+        - Using custom fonts in a Tkinter application
+        - Updating data shown in various labels on Tkinter GUI
+        - Building an executable using pyinstaller
+        - Web scraping, APIs and creating images from raw text data
 
 Fonts:
 To use the fonts provided in the 'Fonts' folder, they must be properly installed. 
