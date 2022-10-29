@@ -49,6 +49,10 @@ It is also possible to build the project to a standalone executable(.exe) using 
         
             https://pyinstaller.org/en/stable/usage.html
 
+<br>
+<br>
+Other Resources:<br>
+    - Install Python Interpreter: https://www.python.org/downloads/
 
 *** !!! Disclaimer !!! ***
 ** Pokémon is copyright protected by Nintendo, Game Freak, and Creatures.
