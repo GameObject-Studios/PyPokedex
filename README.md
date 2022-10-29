@@ -28,7 +28,7 @@ the main.py file.<br>
 <br>
 Build:<br>
 It is also possible to build the project to a standalone executable(.exe) using the package 'pyinstaller'<br>
-<br>
+
     directions:
         1. In a command prompt/terminal run the following command (Requires Python 3.10 or higher):
         
