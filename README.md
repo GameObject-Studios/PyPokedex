@@ -36,7 +36,7 @@ It is also possible to build the project to a standalone executable(.exe) using 
         
         2. Run the following command:
         
-            pyinstaller --onefile --noconsole --main.py
+            pyinstaller --onefile --noconsole main.py
         
         3. If successful, the executable should be in the "dist" folder, for the program to find the assets, 
            the executable must be in the same folder as the assets, which should be in there respective folders 
